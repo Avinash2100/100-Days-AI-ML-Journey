@@ -1,0 +1,17 @@
+# include <iostream>
+using namespace std;
+
+int main(){
+    
+    int a;
+    int b;
+    
+    cout << "enter your first digit "<< endl;
+    cin >> a;
+    cout << "enter your  digit "<< endl;
+    cin >> b;
+    int sum = a+b;
+    cout<< "sum" << sum;
+    
+        
+}
