@@ -1,0 +1,16 @@
+
+#include <iostream>
+using namespace std;
+
+int main(){
+    
+    string name = " avi" ;
+    int age = 21;
+    string college = "dy patil";
+    
+    cout<<  name <<endl;
+    cout << age <<endl;
+    cout <<  college <<endl;
+    
+    return 0;
+}
